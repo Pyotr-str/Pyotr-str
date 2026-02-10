@@ -84,6 +84,7 @@
 <br>
 
 ## 🎒 Образование
+[<img src="/01d382cbbbc.png" width="280px" hspace="10px" alt="Сертификат»">](https://raw.githubusercontent.com/Pyotr-str/Pyotr-str/refs/heads/main/01d382cbbbc.png)
 [<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
 [<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
