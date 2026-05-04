@@ -93,6 +93,6 @@
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:gilletteSeries@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/p_t_k_102)
-[![Email](https://millennium-ptk.narod.ru/util/vkmini.jpg)](https://vk.com/id1095375161)
+[!(https://millennium-ptk.narod.ru/util/vkmini.jpg)](https://vk.com/id1095375161)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
