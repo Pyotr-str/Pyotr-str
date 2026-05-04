@@ -77,7 +77,7 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+## 🛠️ Практика и стажировка
 [<img src="/st.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://github.com/Pyotr-str/Pyotr-str/blob/main/st.png)
 
 <br>
